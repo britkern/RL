@@ -1,7 +1,8 @@
 repo_name: britkern/RL
 report_id: 6a7af9513913aa68ca9c5be63f76377b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T18:23:03+00:00'
+timestamp: '2024-01-05T08:30:08+00:00'
 requested_by: kwea123
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/britkern/RL
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/britkern/RL
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -32,6 +35,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/britkern/RL/blob/master/plotly_test/text-chart-styling.html
   detection_source: plotly_test/text-chart-styling.html
 - name: Jupyter
   description: Multi-language interactive computing environments.
@@ -42,4 +46,5 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/britkern/RL
   detection_source: Repo Metadata
